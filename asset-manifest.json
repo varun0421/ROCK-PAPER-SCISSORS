@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/varun0421/ROCK-PAPER-SCISSORS/static/css/main.50a221cf.css",
+    "main.js": "/varun0421/ROCK-PAPER-SCISSORS/static/js/main.9fa63ac2.js",
+    "static/js/787.f6d19ca6.chunk.js": "/varun0421/ROCK-PAPER-SCISSORS/static/js/787.f6d19ca6.chunk.js",
+    "index.html": "/varun0421/ROCK-PAPER-SCISSORS/index.html",
+    "main.50a221cf.css.map": "/varun0421/ROCK-PAPER-SCISSORS/static/css/main.50a221cf.css.map",
+    "main.9fa63ac2.js.map": "/varun0421/ROCK-PAPER-SCISSORS/static/js/main.9fa63ac2.js.map",
+    "787.f6d19ca6.chunk.js.map": "/varun0421/ROCK-PAPER-SCISSORS/static/js/787.f6d19ca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a221cf.css",
+    "static/js/main.9fa63ac2.js"
+  ]
+}
